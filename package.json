@@ -1,0 +1,16 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "test app in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Shweiri",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "electron": "^3.0.3",
+    "request": "^2.88.0"
+  }
+}
